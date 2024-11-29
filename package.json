@@ -1,0 +1,19 @@
+{
+  "name": "chatapp2",
+  "version": "1.0.0",
+  "description": "1. Setup Your Project\r Initialize a Node.js project:",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "socket.io": "^4.8.1",
+    "ws": "^8.18.0"
+  }
+}

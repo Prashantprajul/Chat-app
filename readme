@@ -1,0 +1,7 @@
+
+// Send message when Enter key is pressed
+// messageInput.addEventListener('keydown', (e) => {
+//   if (e.key === 'Enter') {
+//     sendMessage();
+//   }
+// });
